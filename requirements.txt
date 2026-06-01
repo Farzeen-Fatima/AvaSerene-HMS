@@ -1,0 +1,4 @@
+PyQt5
+bcrypt
+psycopg2-binary
+reportlab
