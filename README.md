@@ -20,8 +20,6 @@ A fully native PostgreSQL and PyQt5 desktop application for hospital management.
 
 ##  Screenshots
 
-![Admin Dashboard](assets/admin_dashboard.png)
-![Worker Queue](assets/worker_queue.png)
 
 ## Installation & Setup
 
