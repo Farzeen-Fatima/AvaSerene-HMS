@@ -28,7 +28,7 @@ A B2B desktop application for hospital management. This system separates adminis
 <img src="assets/worker_dashboard.png" width="700">
 
 **Patient Registration**<br>
-<img src="assets/register_patient.png" width="700">
+<img src="assets/register_patient.png" width="400">
 
 ## Installation & Setup
 
