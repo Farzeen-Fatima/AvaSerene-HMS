@@ -19,11 +19,20 @@ A fully native PostgreSQL and PyQt5 desktop application for hospital management.
 * **Document Generation:** `reportlab`
 
 ##  Screenshots
+**Admin Dashboard**
+![Admin Dashboard](assets/admin_dashboard.png)
 
+**Worker Dashboard**
+![Worker Dashboard](assets/worker_dashboard.png)
 
+**Patient Registration**
+![Register Patient](assets/register_patient.png)
 ## Installation & Setup
-
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/MedQueue.git](https://github.com/yourusername/M.git)
-   cd MedQueue
+```bash
+   git clone [https://github.com/Farzeen-Fatima/AvaSerene-HMS.git](https://github.com/Farzeen-Fatima/AvaSerene-HMS.git)
+   cd AvaSerene-HMS
+   Install dependencies:
+2. **Install dependencies:**
+```bash
+   pip install -r requirements.txt
