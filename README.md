@@ -28,7 +28,7 @@ A B2B desktop application for hospital management. This system separates adminis
 <img src="assets/worker_dashboard.png" width="700">
 
 **Patient Registration**<br>
-<img src="assets/register_patient.png" width="400">
+<img src="assets/register_patient.png" width="300">
 
 ## Installation & Setup
 
@@ -36,3 +36,18 @@ A B2B desktop application for hospital management. This system separates adminis
    ```bash
    git clone [https://github.com/Farzeen-Fatima/AvaSerene-HMS.git](https://github.com/Farzeen-Fatima/AvaSerene-HMS.git)
    cd AvaSerene-HMS
+2. **Install dependencies:**
+   ```bash
+pip install -r requirements.txt
+
+3.**Database Setup:**
+*Create a PostgreSQL database (e.g., ava_serene_hospital).
+*Run the provided SQL script to build the schema:
+
+```bash
+psql -U postgres -d ava_serene_hospital -f ava_serene_hospital.sql
+
+4.**Run the Application:**
+
+```bash
+python login_window.py
